@@ -41,3 +41,5 @@ By continuing this process for each character in the source file until the end i
 *LIBRARY*: <stdio.h>,<stdlib.h>,<ctype.h>
 
 *LANGUAGE*: C
+
+*OUTPUT*: <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f201c281-d1c4-4605-837d-ec99db849a05" />
